@@ -1,0 +1,8 @@
+1. 포크할 계정 들어가서 포크
+2. 내 레퍼시토리와서 코드 복사
+3. git clone 코드 붙여넣기
+4. touch .txt파일추가
+5. git add .
+6. git commit -m
+7. git commit -am
+8. git push -u origin 이름
